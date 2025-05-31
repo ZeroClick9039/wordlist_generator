@@ -27,6 +27,11 @@ class GUI_APP:
         self.menu_bar.add_command(label="-", command=self.remove_entry)
         self.menu_bar.add_command(label="Count: 1", command=self.update_count)
         self.menu_bar.add_command(label="Generate Wordlist", command=self.generate_wordlist_from_gui)
+          
+        self.parent.bind('<Control-t>',lambda event: self.add_entry())
+        self.parent.bind('<Contorl-r>',lambda event: self.remove_entry())
+        
+        
 
         self.import_menu_index = None  # Will track if Import is added
 
