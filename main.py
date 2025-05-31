@@ -29,7 +29,7 @@ class GUI_APP:
         self.menu_bar.add_command(label="Generate Wordlist", command=self.generate_wordlist_from_gui)
           
         self.parent.bind('<Control-t>',lambda event: self.add_entry())
-        self.parent.bind('<Contorl-r>',lambda event: self.remove_entry())
+        self.parent.bind('<Control-r>',lambda event: self.remove_entry())
         
         
 
