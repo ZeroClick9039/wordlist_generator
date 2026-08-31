@@ -40,11 +40,15 @@ A powerful and customizable **Wordlist Generator Tool** designed for cybersecuri
    * Pet Name
    * Favorite Words
    * Any custom input
+     <img width="872" height="810" alt="Screenshot 2026-08-31 193810" src="https://github.com/user-attachments/assets/dd71f4f9-7a42-4a8e-a4ab-37d694a8749c" />
+
 
 2. User can:
 
    * ➕ Add more input fields
    * ➖ Remove unnecessary fields
+     <img width="867" height="805" alt="Screenshot 2026-08-31 193838" src="https://github.com/user-attachments/assets/be561111-eca3-4f6f-89fe-5ecc7f81dc7b" />
+
 
 3. Click **"Generate Wordlist"**
 
@@ -54,6 +58,7 @@ A powerful and customizable **Wordlist Generator Tool** designed for cybersecuri
    * `petname@dob`
    * `name_pet_2024`
    * and many more...
+     <img width="877" height="813" alt="Screenshot 2026-08-31 194014" src="https://github.com/user-attachments/assets/74aedf8c-7de4-420b-bff8-385ec00ae4be" />
 
 ---
 
